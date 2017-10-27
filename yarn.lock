@@ -4215,9 +4215,9 @@ mkdirp@0.5.1, mkdirp@0.5.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdi
   dependencies:
     minimist "0.0.8"
 
-moment-timezone@^0.5.13:
+moment-timezone@aortbals/moment-timezone#fix-module-default-resolution:
   version "0.5.13"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.13.tgz#99ce5c7d827262eb0f1f702044177f60745d7b90"
+  resolved "https://codeload.github.com/aortbals/moment-timezone/tar.gz/9a09b274d0cfafcc871423744796f9ba83733e53"
   dependencies:
     moment ">= 2.9.0"
 
